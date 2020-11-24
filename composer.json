@@ -1,0 +1,13 @@
+{
+    "name": "anystack/utils",
+    "description": "Utils for AnyStack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Tsanyen",
+            "email": "eric@riv.company"
+        }
+    ],
+    "require": {}
+}
